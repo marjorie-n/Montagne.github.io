@@ -230,7 +230,7 @@ nav .navbar-right li:hover {
 footer {
   background: rgb(233, 233, 233);
   min-height: 640px;
-  width: 85%;
+  width: 80%;
   margin: 0 auto 70px;
   display: grid;
   grid-template-columns: 50% 50%;
@@ -350,7 +350,7 @@ main img {
 }
 main .section1 {
   width: 80%;
-  margin: 0 auto;
+  margin: 0 auto 30px;
 }
 main .section1 span {
   font-size: 0.8rem;
@@ -392,7 +392,7 @@ main .section1 h2 {
 }
 main .section1 p {
   width: 80%;
-  margin: 0 auto;
+  margin: 30px auto;
   font-style: italic;
   font-size: 1rem;
   line-height: 1.5;
