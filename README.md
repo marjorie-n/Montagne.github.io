@@ -12,5 +12,7 @@ Sources: mockups, design, code
 - Responsive design 📱
 
 ---
-
-Made with love by Marjorie 💖
+<p align="center">
+<br/>
+  Made with :☕ and ❤️ by <b>Marjorie</b>.
+<p/>
